@@ -811,7 +811,8 @@ body{
     overflow:hidden
 }
 .work--lockup .slider--item-image img{
-    width:100%
+    width:100%;
+    height:100%;
 }
 .work--lockup .slider--item-left{
     top:50%;

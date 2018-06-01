@@ -1,2 +1,0 @@
-# Andtek-Empire
-Andtek Empire 
