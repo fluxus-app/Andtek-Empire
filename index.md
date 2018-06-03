@@ -3,6 +3,8 @@
     # head
 layout: index
 title: SonityWolf
+andtek: Andtek Empire
+andtekpage: http://andtek.pro/empire/
 description: The Blockc[AI]n Wolf
 keywords: global, template, html, sass, jquery
 author: Bucky Maler
@@ -11,7 +13,7 @@ favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
 # SonityWolf Logo
-imglogo: assets/assets/img/logo.png
+imglogo: assets/assets/img/Andtek Empire.png
 
 # Message of Devices
 device_message: Sonity has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
