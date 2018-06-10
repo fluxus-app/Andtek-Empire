@@ -954,7 +954,7 @@ body{
     position:relative;
     height:475px
 }
-.about--banner::before{
+/*.about--banner::before{
     content:"";
     position:absolute;
     top:20px;
@@ -975,7 +975,7 @@ body{
     width:10px;
     height:10px;
     background-color:#0f33ff
-}
+}*/
 .about--banner h2{
     position:relative;
     margin-top:35px;
