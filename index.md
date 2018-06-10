@@ -2,13 +2,13 @@
 # General
     # head
 layout: index
-title: SonityWolf
+title: FluxusApp
 andtek: Andtek Empire
 andtekpage: http://andtek.pro/empire/
 description: The Blockc[AI]n Wolf
 keywords: global, template, html, sass, jquery
 author: Bucky Maler
-shorttitle: Sonity
+shorttitle: FLuxusApp
 favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
@@ -16,70 +16,62 @@ header_maincss: assets/assets/css/main.css
 imglogo: assets/assets/img/Andtek Empire.png
 
 # Message of Devices
-device_message: Sonity has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
+device_message: FluxusApp has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
 
 # Banner
-banner_title: Explore<br>Sonity<br>Wolf
+banner_title: Your Time-Saving<br>Freelancing Partner 
 cta_learn: Learn More
 
 # WHat?
 what:
-    title: What is Sonity Wolf?
+    title: What is FluxusApp?
 
     slides:
-        - slide:
-          number: 1
-          img: assets/assets/img/iphone.jpg
-          title: Native app for phone
-          description: SonityWolf will be natively compatible with Android and iOS, each app is going to be also a GPU native node added to the network.
         - slide:
           align: -left
           number: 2
           img: assets/assets/img/pet.jpg
-          title: Virtual AI pet Utility Tokens
-          description: Sonity originally was an AI Social Community manager python script, but we decided to take it to the next level.
+          title: GROW (dont get suck)
+          description: Being a Freelancer means you have to learn by yourself as well as being multi-skilled & multi-tasking. Is not just about what you do best, you’ll need also organization, management, marketing and sales skills. Fluxus will automate tedious processes while helping you increase your network. You’ll find people to learn from, people you can collaborate with, and maybe even your soul mate.
         - slide:
           align: -center
           number: 3
           img: assets/assets/img/husky vs cat.jpg
-          title: We are criptokitties <br> On steroids!
-          description: Everybody knows that dogs are better that cats, or at least they don’t think that they are better that you or want you dead.
+          title: SAVE TIME
+          description: Flexibility is an illusion that offers control in exchange for a demanding responsibility. Being a freelancer doesn’t mean you have to work more than an office guy. Fluxus will save you enough time so you can keep a healthy work/life balance. But if you’re workalchoolic, then you’ll have more time to be twice productive.
         - slide:
           align: -right
           number: 4
           img: assets/assets/img/about/synapse.png
-          title: SynapseGL.network node
-          description: Sonity needs high end general computing power, this can be achieved with a swarm of phones GPUs that are going to render every single gradient of the Blockc[AI]n, and you will get sonity tokens for leasing your GPU for this tasks.
-        - slide:
-          number: 5
-          img: assets/assets/img/about/block ai.png
-          title: Blockc[AI]n technology
-          description: Since we need general computing power, not hashing power to power up sonity, to achieve our general Sonity AI we want this to be a decentralized network, in a nutshell, Sonity is going to be the first app to implement a proprietary concept called Proof of Gradient.
-        - slide:
-          number: 6
-          img: assets/assets/img/marketplace.png
-          title: Marketplace and SDK
-          description: You can use and create apps that runs on Sonity-Framework on top of SonityWolf.
-        
+          title: GAIN STABILITY
+          description: Freelancing is naturally cyclical, there are times with too much work and there are times without any work. Financially is the same, so income is variable. Fluxus will let you have continuous work, which means stable income.
 
 how:
-    title: Check out our <br>repos!
-    github_repos: https://github.com/SonityWolf
+    title: Try it for Free.<br>Download the App.
+    github_repos: https://github.com/fluxus-app
     title_repos: GitHub repos
     aboutusimg: assets/assets/img/introduction-visual.png
     aboutusalt: About Us
 
-    projectstitle: Related projects
-    projects:
-        - slide:
-          github: https://eos.io/
-          title: EOS
-        - slide:
-          github: https://www.tensorflow.org/
-          title: TensorFlow
-        - slide:
-          github: https://www.openmined.org/
-          title: OpenMined
+    steps:
+      - step:
+        title: 1-. Create your profile
+      - step:
+        title: 2-. Set your skills (complete some basic tests)
+      - step:
+        title: 3-. Set your work preferences (project types, location, languages, hours, etc.)
+      - step:
+        title: 4-. Work on your first assignment
+      - step:
+        title: 5-. See suggested projects
+      - step:
+        title: 5.1-. Swipe right to apply for a project
+      - step:
+        title: 5.1.1-. Fluxus will automatically apply for you
+      - step:
+        title: 5.2-. Swipe left to ignore a project
+      - step:
+        title: 5.2.1-. Fluxus will learn from your choices
 
 who:
     title: Our Founders
@@ -95,14 +87,14 @@ who:
           align: -center
           linkedin: https://www.linkedin.com/in/andtek/
           img: assets/assets/img/ianandtek.jpg
-          title: "Ian Andtek: <strong>Founder</strong>"
+          title: "Ian Andtek: <strong>CO-Founder and CTO</strong>"
           description: Art and technology lover, Into Machine Learning, Quantum Machine Learning, Quantum computing, Blockchain Development and Music and all those unusual combinations.
         - slide:
           align: -right
           linkedin: https://www.linkedin.com/in/scott-horlacher-0b5607164/
           img: assets/assets/img/scotthorlacher.jpg
-          title: "Scott Horlacher: <strong>Developer</strong>"
-          description: Full-stack developer, ghost-writer and all-around creative person Electrical &amp; Biomedical Engineering graduate with a passion for all things Javascript Hands-on experience with IoT &amp; Ethereum, fluent in python.
+          title: "Johann Marque: <strong></strong>"
+          description: Biologist turned Entrepreneur.
 
 join_us:
     join_us_title: Want to join us?

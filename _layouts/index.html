@@ -106,10 +106,8 @@
           <li class="l-section section">
             <div class="about">
               <div class="about--banner">
-                <br>
-                <br>
                 <h2>{{ page.how.title }}</h2>
-                <a class ="github" href="{{ page.how.github_repos }}" target="_blank">
+                <!--<a class ="github" href="{{ page.how.github_repos }}" target="_blank">
                     {{ page.how.title_repos }}
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -117,7 +115,7 @@
                     </g>
                     </svg>
                     <span class="btn-background"></span>
-                </a>
+                </a>-->
                 <!--
                 <a href="#0">Career
                   <span>
@@ -129,16 +127,20 @@
                   </span>
                 </a>
                 -->
-                <img src="{{ page.how.aboutusimg }}" alt="{{ page.how.aboutusalt }}">
+                <!--<img src="{{ page.how.aboutusimg }}" alt="{{ page.how.aboutusalt }}">-->
+                {% for step in page.how.steps %}
+                  <h2 style="font-size: 18px;margin-top: 0px">{{ step.title }}</h2>
+                {% endfor %}
               </div>
-              <h2>{{ page.how.projectstitle }}</h2>
-              <div class="about--options">
+              
+              
+              <!--<div class="about--options">
                 {% for slide in page.how.projects %}
                   <a href="{{ slide.github }}" target="_blank">
                     <h3>{{ slide.title }}</h3>
                   </a>
                 {% endfor %}
-              </div>
+              </div>-->
             </div>
           </li>
           <li class="l-section section">
