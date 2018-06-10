@@ -5,8 +5,8 @@ layout: index
 title: FluxusApp
 andtek: Andtek Empire
 andtekpage: http://andtek.pro/empire/
-description: The Blockc[AI]n Wolf
-keywords: global, template, html, sass, jquery
+description: Work listing from multiple sources such as freelancer.com, workana.com, fiverr.com and UpWork.com.
+keywords: fluxusapp, template, html, sass, jquery
 author: Bucky Maler
 shorttitle: FLuxusApp
 favicon: assets/assets/img/favicon.ico
