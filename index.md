@@ -9,7 +9,7 @@ description: Work listing from multiple sources such as freelancer.com, workana.
 keywords: fluxusapp, template, html, sass, jquery
 author: Bucky Maler
 shorttitle: FLuxusApp
-favicon: assets/assets/img/favicon.ico
+#favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
 # SonityWolf Logo
@@ -22,7 +22,7 @@ device_message: FluxusApp has so much to offer that we must request you orient y
 banner_title: Your Time-Saving<br>Freelancing Partner 
 cta_learn: Learn More
 
-# WHat?
+# What?
 what:
     title: What is FluxusApp?
 
@@ -31,7 +31,7 @@ what:
           align: -left
           number: 2
           img: assets/assets/img/pet.jpg
-          title: GROW (dont get suck)
+          title: GROW (don't get stuck)
           description: Being a Freelancer means you have to learn by yourself as well as being multi-skilled & multi-tasking. Is not just about what you do best, you’ll need also organization, management, marketing and sales skills. Fluxus will automate tedious processes while helping you increase your network. You’ll find people to learn from, people you can collaborate with, and maybe even your soul mate.
         - slide:
           align: -center
@@ -91,9 +91,9 @@ who:
           description: Art and technology lover, Into Machine Learning, Quantum Machine Learning, Quantum computing, Blockchain Development and Music and all those unusual combinations.
         - slide:
           align: -right
-          linkedin: https://www.linkedin.com/in/scott-horlacher-0b5607164/
-          img: assets/assets/img/scotthorlacher.jpg
-          title: "Johann Marque: <strong></strong>"
+          linkedin: https://www.linkedin.com/in/johannmgz/
+          img: assets/assets/img/johannmarquez.jpeg
+          title: "Johann Márquez <strong></strong>"
           description: Biologist turned Entrepreneur.
 
 join_us:
